@@ -1,2 +1,7 @@
-# demo-consultorio-odontologico-hb-b
-Demo web para Consultorio Odontológico HB&amp;B — diseñada por eterlab.
+# Consultorio Odontológico HB&B
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
